@@ -3,4 +3,4 @@
 Use:
 
 
-npx degit Vite--react-reduxToolkit-router-tailwind--template
+git clone https://github.com/mohattiads/Vite--react-reduxToolkit-router-tailwind--template.git
