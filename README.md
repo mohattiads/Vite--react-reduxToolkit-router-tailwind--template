@@ -1,6 +1,6 @@
 # Vite--react-reduxToolkit-router-tailwind--template
 -------JavaScript (template)-------
-Use:
 
-
-git clone https://github.com/mohattiads/Vite--react-reduxToolkit-router-tailwind--template.git
+(in the terminal)
+1- run: npm install 
+2- run: npm run dev (to start) 
